@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<AddInId>{CE65C604-688C-4B12-977F-7207CA8988F7}</AddInId>
+		<Assembly>C:\Program Files\Leica Geosystems AG\Leica Building Link 2020\LeicaBimLinkRevit.dll</Assembly>
+		<FullClassName>LeicaBimLinkRevit.Extension</FullClassName>
+		<Name>Extension</Name>
+		<VendorDescription>Leica Geosystems AG</VendorDescription>
+		<VendorId>Leica Geosystems AG</VendorId>
+	</AddIn>
+</RevitAddIns>
