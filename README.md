@@ -17,3 +17,5 @@ Imported objects
 •  Parcel 
 •  Surface 
 •  Feature line 
+
+![Screenshot](https://raw.githubusercontent.com/ErwinMeulman/LeicaBuildingLink/master/HeXML.png)
